@@ -1,1 +1,1 @@
-# DFSM_Minimization
+A simple implementation of a deterministic finite state machine minimization in C#. A post about it can be found on my blog: http://bezensek.com/blog/2015/05/08/deterministic-finite-state-machine-minimization/
